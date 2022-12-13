@@ -1,6 +1,10 @@
 # xtore
 
-An e-commerce web app, for API project under the course Web Technologies (CSE 446)
+An e-commerce web app, for API project under the course Web Technologies (CSE 446).
+This app handles transction among bank, admin, supplier and users through REST APIs.
+
+<img width="541" alt="Screenshot 2022-12-12 at 7 06 38 PM" src="https://user-images.githubusercontent.com/50478236/207052619-6867d88d-4c8e-4472-a01a-b43cdf26f3c3.png">
+
 
 ## Downloading the project
 
